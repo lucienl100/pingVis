@@ -131,9 +131,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Add base program to ping Cloudfare servers and visualize ping over time.
 - [x] Add an understandable y axis which dynamically changes based on max ping at a suitable time
-- [] Add multithreading to avoid program from freezing while waiting for cmd.
-- [] Improve visual quality, eg. removing toolbar in popup window
-- [] Add more information, average packet loss, etc.
+- [ ] Add multithreading to avoid program from freezing while waiting for cmd.
+- [ ] Improve visual quality, eg. removing toolbar in popup window
+- [ ] Add more information, average packet loss, etc.
 
 <!-- LICENSE -->
 ## License
